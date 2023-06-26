@@ -1,6 +1,6 @@
 {
   "name": "maomao-ui",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "components for vue",
   "main": "package/maomaoui.js",
   "scripts": {
